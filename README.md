@@ -1,5 +1,8 @@
 # covering_polygon-with-rectangles
 
+# Conditions
+It is necessary to cover the area of a given shape with rectangles as much as possible. If the rectangle has gone beyond the border of the shape, then it does not count. The shape is defined by a certain set of points. The maximum number of rectangles in the response is 12000.
+
 ## Visualization of tests and solutions using Python
 [Jupyter notebook (.ipynb)](TechArena_Challenge.ipynb)
 
