@@ -1,6 +1,6 @@
 # covering_polygon-with-rectangles
 
-## Visualization of tests and solutions using python + google colab
+## Visualization of tests and solutions using Python
 [Colab notepad (.ipynb)](TechArena_Challenge.ipynb)
 
 ### Examples
